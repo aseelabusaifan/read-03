@@ -1,16 +1,15 @@
-# minde set
+# intro 
+* aseelabusaifan
+* im from amman 
 
- the minde set: its like self-steam 
 
-people respect idea bulid about your self 
+** Studied at Yarmouk University ** 
 
- ## **fixed mindset** and **groth mindset**
+## table of  contant 
 
--the differnce between then -
+| Number      | Link |
+| ----------- | ----------- |
+| Growth Mindset      | [Growth Mindset](growth_mindset)       |
+| Read01   | [Read01](https://aseelabusaifan.github.io/reading--not-2/read01)        |
+| Read02  |[Read02](read02)|
 
- the fixed  what we beleive from 
-
-culuter 
-
-*groth beleving people they csn do achive and when we faced the fixed with groth: let`s get ** example**
-whene we faced  the challeng  fixed will be aviods but the groth embraces 
