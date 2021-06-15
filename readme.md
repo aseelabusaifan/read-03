@@ -4,7 +4,7 @@
 
 people respect idea bulid about your self 
 
- ## **fixed mindset ** and **groth mindset**
+ ## **fixed mindset** and **groth mindset**
 
 -the differnce between then -
 
