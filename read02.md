@@ -5,4 +5,3 @@ Git is a fast, scalable, distributed revision control system with an unusually r
 *git is faster and modern  
 *git provides a history of  contact chances defiance
 *gits easy to use for any type of knowledge worker
-
