@@ -32,6 +32,7 @@ Computers are all around us, but what really makes a computer, a computer.
 
 *Input
  
+ 
 * storage 
 * processing 
 * output
