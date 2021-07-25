@@ -32,3 +32,5 @@ I'm Aseel AbuSaifan , I'm 25 years old , I studied Public Administration at Yarm
 |Read08|[click here](https://aseelabusaifan.github.io/reading-notes/201/read08)|
 |Read09|[click here](https://aseelabusaifan.github.io/reading-notes/201/read09)|
 |Read10|[click here](https://aseelabusaifan.github.io/reading-notes/201/read10)|
+|Read11|[click here](https://aseelabusaifan.github.io/reading-notes/201/read11)|
+|Read12|[click here](https://aseelabusaifan.github.io/reading-notes/201/read12)|
